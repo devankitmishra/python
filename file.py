@@ -1,0 +1,1 @@
+f = open('data_folder/data.txt','r')
